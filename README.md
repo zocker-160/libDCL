@@ -66,3 +66,8 @@ for (int i = 0; i < compressedLength; i++) {
 }
 printf(" with length %i \n", compressedLength);
 ```
+
+### Credits
+
+- [blast.c by mark adler](https://github.com/madler/zlib/tree/master/contrib/blast)
+- [implode.c by Ladislav Zezula](https://github.com/ladislav-zezula/StormLib/blob/master/src/pklib/implode.c)
