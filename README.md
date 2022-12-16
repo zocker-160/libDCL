@@ -1,8 +1,8 @@
 # libDCL
 
-FOSS lib which combines blast.c and implode.c into one easy to use library.
+FOSS lib for PKWare's DCL compresseion algorithm, supports both compression and decompression.
 
-Bindings to other languages should also be easier with this.
+Combines blast.c and implode.c into one easy to use library, should also make bindings to other languages easier.
 
 ## Build
 
