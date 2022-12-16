@@ -8,3 +8,6 @@ windows: folder
 
 folder:
 	-mkdir build
+
+clean:
+	-rm -rf build
